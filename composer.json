@@ -11,5 +11,5 @@
   "autoload": {
     "psr-0": { "Alcatraz\\Components\\": "src" }
   },
-  "target-dir": "Alcatraz/Components"
+  "target-dir": "Alcatraz/Components/Section"
 }
